@@ -1,6 +1,6 @@
 altair==5.1
-streamlit==1.26
+streamlit
 watchdog==3.0
 openai==0.27
 python-decouple==3.8
-Pillow==10.0.0
+Pillow
